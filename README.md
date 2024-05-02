@@ -7,7 +7,7 @@ The web page features a clean and intuitive layout, ensuring ease of navigation 
 
 The validation process is prominently displayed, guiding users through each step.
 
-This web page form is design and developed using HTML5 & CSS3.
+This web page form is design and developed using HTML5, CSS3 & JavaScript.
 
 This email-validation form will look like this 👇
 
